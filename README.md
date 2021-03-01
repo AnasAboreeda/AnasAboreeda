@@ -6,19 +6,19 @@
 
 ### Skills
 
-- Backend: (node.js, Java).
-- Frontend: (Typescript, React, Redux, JavaScript, HTML, CSS).
-- SQL Databases: (PostgreSQL, MySQL).
-- NoSQL databases: (MongoDB, DynamoDB, ElasticSearch, Google Datastore).
-- Cloud engineering: (Google Cloud Platform (GCP), Amazon Web Services (AWS)).
-- ServerLess: (Aws Lambda, Google Cloud Functions).
-- Kubernetes & Docker.
-- Queue Systems: (RabbitMQ).
-- Caching: (Redis, CDN).
-- Monitoring: (Grafana, Prometheus).
-- Logging: (Loggly, rollbar).
-- CI / CD: (Jenkins, Travis).
-- Script languages: (Python, Bash)
+- **Backend**: *(node.js, Java).*
+- **Frontend**: *(Typescript, React, Redux, JavaScript, HTML, CSS).*
+- **SQL Databases**: *(PostgreSQL, MySQL).*
+- **NoSQL databases**: *(MongoDB, DynamoDB, ElasticSearch, Google Datastore).*
+- **Cloud engineering**: *(Google Cloud Platform (GCP), Amazon Web Services (AWS)).*
+- **ServerLess**: *(Aws Lambda, Google Cloud Functions).*
+- *Kubernetes & Docker*
+- **Queue Systems**: *(RabbitMQ).*
+- **Caching**: *(Redis, CDN).*
+- **Monitoring**: *(Grafana, Prometheus).*
+- **Logging**: *(Loggly, rollbar).*
+- **CI / CD**: *(Jenkins, Travis).*
+- **Script languages**: *(Python, Bash)*
 
 ### More info about me
 
