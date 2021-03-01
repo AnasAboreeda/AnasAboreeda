@@ -30,12 +30,10 @@
 - 📫 How to reach me: anas@aboureada.com
 - 😄 Pronouns: Anas
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnasAboureada)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AnasAboureada&theme=juicyfresh&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnasAboureada)](https://github.com/anuraghazra/github-readme-stats)![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnasAboureada&show_icons=true&count_private=true)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnasAboureada&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnasAboureada&show_icons=true&count_private=true&theme=merko)
 
-![GitHub metrics](https://metrics.lecoq.io/AnasAboureada)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AnasAboureada)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AnasAboureada&theme=merko)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AnasAboureada)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/anasaboureada//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://aboureada.com)
