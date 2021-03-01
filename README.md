@@ -1,7 +1,6 @@
 ### Hi there 👋, I am Anas Aboureada
 
-#### Software Engineering Lead @Elsevier
-Software development lead with +15 years of programming experience.
+#### Software Engineering Lead @Elsevier with +15 years of programming experience.
 
 ![Profile views](https://gpvc.arturio.dev/AnasAboureada)  
 
