@@ -3,7 +3,7 @@
 #### Software Engineering Lead @Elsevier with +15 years of programming experience
 
 ![GitHub followers](https://img.shields.io/github/followers/anasaboureada?label=Follow%20me&style=social)  ![Twitter Follow](https://img.shields.io/twitter/follow/anasaboureada?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/anasaboureada?style=social) ![Profile views](https://gpvc.arturio.dev/AnasAboureada)
-Last updated on: Saturday, 2 October, 01:16 CEST.
+<sup>Last updated on: Saturday, 2 October, 01:17 CEST.</sup>
 
 ### Skills
 
