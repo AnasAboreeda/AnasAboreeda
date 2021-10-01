@@ -28,22 +28,31 @@ function generateReadMe() {
   });
 }
 async function setWeatherInformation() {
-  console.log(process.env);
   await fetch(
     `https://api.openweathermap.org/data/2.5/weather?q=amsterdam&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
   )
-    .then((r) => r.json())
-    .then((r) => {
-      console.log(`r`, r);
-      DATA.city_temperature = Math.round(r.main.temp);
-      DATA.city_weather = r.weather[0].description;
-      DATA.city_weather_icon = r.weather[0].icon;
-      DATA.sun_rise = new Date(r.sys.sunrise * 1000).toLocaleString("en-NL", {
+    .then((weather) => weather.json())
+    .then((weatherData) => {
+      console.log(`weather data`, weatherData);
+
+      DATA.city_temperature = Math.round(weatherData.main.temp);
+      DATA.temp_min = Math.round(weatherData.main.temp_min);
+      DATA.temp_max = Math.round(weatherData.main.temp_max);
+      DATA.feels_like = Math.round(weatherData.main.feels_like);
+      DATA.humidity = Math.round(weatherData.main.humidity);
+
+      const currentWeather = weatherData.weather[0];
+
+      DATA.city_name = weatherData.name;
+      DATA.city_weather = currentWeather.description;
+      DATA.city_weather_icon = currentWeather.icon;
+
+      DATA.sun_rise = new Date(weatherData.sys.sunrise * 1000).toLocaleString("en-NL", {
         hour: "2-digit",
         minute: "2-digit",
         timeZone: "Europe/Amsterdam",
       });
-      DATA.sun_set = new Date(r.sys.sunset * 1000).toLocaleString("en-NL", {
+      DATA.sun_set = new Date(weatherData.sys.sunset * 1000).toLocaleString("en-NL", {
         hour: "2-digit",
         minute: "2-digit",
         timeZone: "Europe/Amsterdam",
