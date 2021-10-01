@@ -2,7 +2,7 @@
 
 #### Software Engineering Lead @Elsevier with +15 years of programming experience
 
-![Profile views](https://gpvc.arturio.dev/AnasAboureada) Last updated on: Friday, 1 October, 23:21 CEST.
+![Profile views](https://gpvc.arturio.dev/AnasAboureada) Last updated on: Friday, 1 October, 23:33 CEST.
 
 ### Skills
 
@@ -39,4 +39,4 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AnasAboureada)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/anasaboureada//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://aboureada.com)
 
 
-Currently, the weather is: <b> 14°C, <i>scattered clouds</i></b></br>Today, the sun rises at <b>07:41</b> and sets at <b>19:18</b>
+Currently, the weather is: <b> 13°C, <i>scattered clouds</i></b></br>Today, the sun rises at <b>07:41</b> and sets at <b>19:18</b>
