@@ -1,0 +1,29 @@
+{
+  "name": "anasaboureada",
+  "version": "1.0.0",
+  "description": "My personal github README ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnasAboureada/AnasAboureada.git"
+  },
+  "keywords": [
+    "README",
+    "Aboureada",
+    "Anas"
+  ],
+  "author": "Anas Aboureaea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnasAboureada/AnasAboureada/issues"
+  },
+  "homepage": "https://github.com/AnasAboureada/AnasAboureada#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mustache": "^4.1.0",
+    "node-fetch": "^2.6.1"
+  }
+}
