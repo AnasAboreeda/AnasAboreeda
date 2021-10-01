@@ -2,7 +2,7 @@
 
 #### Software Engineering Lead @Elsevier with +15 years of programming experience
 
-![Profile views](https://gpvc.arturio.dev/AnasAboureada) Last updated on: Saturday, 2 October, 00:36 CEST.
+![Profile views](https://gpvc.arturio.dev/AnasAboureada) Last updated on: Saturday, 2 October, 00:47 CEST.
 
 ### Skills
 
@@ -36,7 +36,12 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AnasAboureada&theme=merko)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AnasAboureada)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/anasaboureada//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://aboureada.com)
+### You can follow me here
 
-Currently, the weather in Amsterdam is:<b>13°C</b>, and it feels like: <b> 13°C </b> with humidity: <b>93% </b><b><i>scattered clouds </i></b><img src="http://openweathermap.org/img/wn/03n@2x.png" alt="drawing" style="width:50px;"/>
-</b>Today, Temprature is <b>12°C - 14°C </b> and the sun rises at <b>07:43</b> and sets at <b>19:16</b>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AnasAboureada)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/anasaboureada//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://aboureada.com)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AnasAboureada)
+
+### Weather where I live
+
+<img src="http://openweathermap.org/img/wn/03n@2x.png" alt="drawing" style="width:50px;"/>
+</br>Currently, the weather in <b>Amsterdam</b> is: <b><i>scattered clouds </i></b> with temp: <b>13°C</b>, and it feels like: <b> 13°C </b> with humidity: <b>93% </b>
+</br>Today, Temprature is <b>12°C - 14°C </b> and the sun rises at <b>07:43</b> and sets at <b>19:16</b>
