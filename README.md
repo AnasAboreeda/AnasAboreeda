@@ -2,8 +2,8 @@
 
 #### Software Engineering Lead @Elsevier with +15 years of programming experience
 
-![GitHub followers](https://img.shields.io/github/followers/anasaboureada?label=Follow%20me&style=social)  ![Twitter Follow](https://img.shields.io/twitter/follow/anasaboureada?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/anasaboureada?style=social) ![Profile views](https://gpvc.arturio.dev/AnasAboureada)
-<sup>Last updated on: Saturday, 2 October, 10:17 CEST.</sup>
+![GitHub followers](https://img.shields.io/github/followers/anasaboureada?style=social)  ![Twitter Follow](https://img.shields.io/twitter/follow/anasaboureada?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/anasaboureada?style=social) ![Profile views](https://gpvc.arturio.dev/AnasAboureada)
+<sup>Last updated on: Saturday, 2 October, 10:18 CEST.</sup>
 
 ### Skills
 
@@ -23,11 +23,11 @@
 
 ### More info about me
 
+- 💬 Ask me about Web development, MicroService Architecture, Domain Driven Design DDD, Reseliency, Scalability, Maintenability and Performance Optimizations.
 - 🔭 I’m currently working on Migrating legacy Java projects to new stack
 - 🌱 I’m currently playing with a new telegram personal assistant bot
 - 👯 I’m looking to collaborate on Java projects
 - 🤔 I’m looking for help with any Node.js projects
-- 💬 Ask me about Web development
 - 📫 How to reach me: anas@aboureada.com
 - 😄 Pronouns: Just `Anas` 😄
 
