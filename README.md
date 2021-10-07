@@ -3,7 +3,7 @@
 #### Software Engineering Lead @Elsevier with +15 years of programming experience
 
 ![GitHub followers](https://img.shields.io/github/followers/anasaboureada?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/anasaboureada?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/anasaboureada?style=social)  ![Profile views](https://gpvc.arturio.dev/AnasAboureada)
-<br/><sup>Last updated on: Thursday, 7 October, 02:44 CEST.</sup>
+<br/><sup>Last updated on: Thursday, 7 October, 14:21 CEST.</sup>
 
 ### Skills
 
@@ -43,6 +43,6 @@
 
 ### Weather where I live
 
-<img src="http://openweathermap.org/img/wn/50n@2x.png" alt="drawing" style="width:50px;"/>
-Currently, the weather in <b>Amsterdam</b> is: <b><i>fog </i></b> with temp: <b>10°C</b>, and it feels like: <b> 10°C </b> with humidity: <b>92% </b>
-</br>Today, Temprature is <b>7°C - 14°C </b> and the sun rises at <b>07:51</b> and sets at <b>19:04</b>
+<img src="http://openweathermap.org/img/wn/04d@2x.png" alt="drawing" style="width:50px;"/>
+Currently, the weather in <b>Amsterdam</b> is: <b><i>broken clouds </i></b> with temp: <b>17°C</b>, and it feels like: <b> 16°C </b> with humidity: <b>79% </b>
+</br>Today, Temprature is <b>14°C - 18°C </b> and the sun rises at <b>07:51</b> and sets at <b>19:04</b>
