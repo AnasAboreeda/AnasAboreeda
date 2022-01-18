@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Anas Aboureada
 
-#### Lead Software Engineer @Elsevier with +8 years professional experience, +3 years lead engineer experience and +18 years of programming experience.
+#### Lead Software Engineer @Elsevier with +8 years professional experience, +4 years lead engineer experience and +18 years of programming experience.
 
 ![GitHub followers](https://img.shields.io/github/followers/anasaboureada?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/anasaboureada?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/anasaboureada?style=social)  ![Profile views](https://gpvc.arturio.dev/AnasAboureada)
 <br/><sup>Last updated on: Monday, 6 December, 10:20 CET.</sup>
