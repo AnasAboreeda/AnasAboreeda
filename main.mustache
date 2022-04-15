@@ -1,25 +1,18 @@
 ### Hi there 👋, I am Anas Aboureada
 
-#### Lead Software Engineer @Elsevier with +8 years professional experience, +4 years lead engineer experience and +18 years of programming experience.
+#### Software development lead engineer with +18 years of programming experience including +8 years of professional web development experience, and +3 years leading diverse teams to success.
 
 ![GitHub followers](https://img.shields.io/github/followers/anasaboureada?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/anasaboureada?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/anasaboureada?style=social)  ![Profile views](https://gpvc.arturio.dev/AnasAboureada)
 <br/><sup>Last updated on: Monday, 6 December, 10:20 CET.</sup>
 
 ### Skills
 
-- **Backend**: *(node.js, Java).*
-- **Frontend**: *(Typescript, React, Redux, JavaScript, HTML, CSS).*
-- **SQL Databases**: *(PostgreSQL, MySQL, OracleDB).*
-- **NoSQL databases**: *(MongoDB, DynamoDB, ElasticSearch, Google Datastore).*
-- **Cloud engineering**: *(Google Cloud Platform (GCP), Amazon Web Services (AWS)).*
-- **ServerLess**: *(Aws Lambda, Google Cloud Functions).*
-- **DevOps**: *Kubernetes & Docker*
-- **Queue Systems**: *(RabbitMQ).*
-- **Caching**: *(Redis, CDN).*
-- **Monitoring**: *(Grafana, Prometheus, New Relic).*
-- **Logging**: *(Loggly, rollbar).*
-- **CI / CD**: *(Jenkins, Travis).*
-- **Script languages**: *(Python, Bash)*
+- **Programming languages**: *Java, Node.js, Typescript, React, JavaScript, HTML, CSS, Python*.
+- **Frameworks**: *, Express.js, Redux*.
+- **Databases**: *OracleDB, PostgreSQL, MySQL, MongoDB, DynamoDB, ElasticSearch, Redis*.
+- **Cloud engineering**: *Amazon Web Services (AWS), Google Cloud Platform (GCP)*.
+- **Logging & Monitoring**: *NewRelic, Grafana, Prometheus, Kibana, Loggly, rollbar*.
+- **Other**: *Kubernetes & Docker, Kafka, RabbitMQ, Jenkins, Travis, GitHub Actions*.
 
 ### More info about me
 
