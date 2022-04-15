@@ -31,3 +31,5 @@
 <img src="http://openweathermap.org/img/wn/50d@2x.png" alt="drawing" style="width:50px;"/>
 Currently, the weather in <b>Amsterdam</b> is: <b><i>fog </i></b> with temp: <b>3°C</b>, and it feels like: <b> 0°C </b> with humidity: <b>95% </b>
 </br>Today, Temprature is <b>2°C - 4°C </b> and the sun rises at <b>08:34</b> and sets at <b>16:28</b>
+
+[![README build](https://github.com/AnasAboureada/AnasAboureada/actions/workflows/main.yaml/badge.svg)](https://github.com/AnasAboureada/AnasAboureada/actions/workflows/main.yaml)
