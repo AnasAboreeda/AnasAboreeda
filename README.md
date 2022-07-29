@@ -3,7 +3,7 @@
 #### Software development lead engineer with +18 years of programming experience including +8 years of professional web development experience, and +3 years leading diverse teams to success.
 
 ![GitHub followers](https://img.shields.io/github/followers/anasaboureada?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/anasaboureada?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/anasaboureada?style=social)  ![Profile views](https://gpvc.arturio.dev/AnasAboureada)
-<br/><sup>Last updated on: Thursday, 28 July, 14:28 CEST.</sup>
+<br/><sup>Last updated on: Friday, 29 July, 03:09 CEST.</sup>
 
 ### Skills
 
