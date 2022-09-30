@@ -1,20 +1,20 @@
-### Hi there 👋, I am Anas Aboureada
-
-#### Software development lead engineer with +18 years of programming experience including +8 years of professional web development experience, and +3 years leading diverse teams to success.
+### Hi there 👋, my name is `Anas`
+#### Software Development Lead Engineer
+#### 19+ years of programming experience including 9+ years of professional web development experience, and 4+ years tech leading / managing diverse teams to success.
 
 ![GitHub followers](https://img.shields.io/github/followers/anasaboureada?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/anasaboureada?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/anasaboureada?style=social)  ![Profile views](https://gpvc.arturio.dev/AnasAboureada)
-<br/><sup>Last updated on: Friday, 30 September, 03:52 CEST.</sup>
+<br/><sup>Last updated on: `Friday, 30 September 2022, 06:57 CEST`.</sup>
 
-### Skills
+### Technical Skills
 
 - **Programming languages**: *Java, Node.js, Typescript, React, JavaScript, HTML, CSS, Python*.
-- **Frameworks**: *, Express.js, Redux*.
+- **Frameworks**: *Spring Boot, Express.js, Redux*.
 - **Databases**: *OracleDB, PostgreSQL, MySQL, MongoDB, DynamoDB, ElasticSearch, Redis*.
 - **Cloud engineering**: *Amazon Web Services (AWS), Google Cloud Platform (GCP)*.
 - **Logging & Monitoring**: *NewRelic, Grafana, Prometheus, Kibana, Loggly, rollbar*.
 - **Other**: *Kubernetes & Docker, Kafka, RabbitMQ, Jenkins, Travis, GitHub Actions*.
 
-### More info about me
+### More about me
 
 - 💬 Ask me about Web development, MicroService Architecture, Domain Driven Design DDD, Resiliency, Scalability, Maintainability and Performance Optimizations.
 - 🔭 I’m currently working on Migrating legacy Java projects to new stack
