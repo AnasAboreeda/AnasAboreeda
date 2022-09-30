@@ -45,7 +45,7 @@ async function setWeatherInformation() {
   )
     .then((weather) => weather.json())
     .then((weatherData) => {
-      console.log(`weather data`, weatherData);
+      DATA.weatherData = weatherData;
 
       DATA.city_temperature = Math.round(weatherData.main.temp);
       DATA.temp_min = Math.round(weatherData.main.temp_min);
@@ -56,7 +56,7 @@ async function setWeatherInformation() {
       const currentWeather = weatherData.weather[0];
 
       DATA.city_name = weatherData.name;
-      DATA.city_weather = currentWeather.description;
+      DATA.city_weather = currentWeather.main + " - " + currentWeather.description;
       DATA.city_weather_icon = currentWeather.icon;
 
       DATA.sun_rise = new Date(weatherData.sys.sunrise * 1000).toLocaleString("en-NL", {
@@ -77,6 +77,8 @@ async function action() {
    * Fetch Weather
    */
   await setWeatherInformation();
+
+  console.log(`data`, JSON.stringify(DATA, null, 2));
 
   /**
    * Generate README
