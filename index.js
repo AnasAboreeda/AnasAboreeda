@@ -7,9 +7,18 @@ const fs = require("fs");
 const fetch = require("node-fetch");
 const MUSTACHE_MAIN_DIR = "./main.mustache";
 
+function getYearsDiff(since) {
+  const now = new Date()
+  const old = new Date(since)
+  const diff = now.getTime() - old.getTime();
+
+  return Math.ceil(diff / (1000 * 3600 * 24 * 30 * 12));
+}
+
 let DATA = {
   name: "Anas Aboureada",
   date: new Date().toLocaleDateString("en-NL", {
+    year: "numeric",
     weekday: "long",
     month: "long",
     day: "numeric",
@@ -18,6 +27,9 @@ let DATA = {
     timeZoneName: "short",
     timeZone: "Europe/Amsterdam",
   }),
+  total_exp: getYearsDiff("01/09/2004"),
+  prof_exp: getYearsDiff("01/03/2014"),
+  lead_exp: getYearsDiff("01/01/2019"),
 };
 
 function generateReadMe() {
