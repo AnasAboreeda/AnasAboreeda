@@ -3,7 +3,7 @@
 #### With **20+ years** of programming experience including **9+ years** of professional experience, and **4+ years** tech leading / managing diverse teams to success.
 
 ![GitHub followers](https://img.shields.io/github/followers/anasaboureada?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/anasaboureada?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/anasaboureada?style=social)  ![Profile views](https://gpvc.arturio.dev/AnasAboureada)
-<br/><sup>Last updated on: `Wednesday, 9 November 2022, 15:34 CET`.</sup>
+<br/><sup>Last updated on: `Wednesday, 9 November 2022, 16:36 CET`.</sup>
 
 ### Technical Skills
 
@@ -19,6 +19,8 @@
 - 💬 Ask me about Web development, MicroService Architecture, Domain Driven Design DDD, Resiliency, Scalability, Maintainability and Performance Optimizations.
 - 🔭 I’m currently working on Migrating legacy Java projects to new stack
 
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnasAboureada&show_icons=true&count_private=true&theme=merko)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AnasAboureada&theme=merko)
 
@@ -28,8 +30,8 @@
 
 ### Weather where I live
 
-<img src="http://openweathermap.org/img/wn/04d@2x.png" alt="drawing" style="width:50px;"/>
-Currently, the weather in <b>Amsterdam</b> is: <b><i>Clouds - broken clouds</i></b> with temp: <b>13°C</b>, and it feels like: <b> 12°C </b> with humidity: <b>86% </b>
+<img src="http://openweathermap.org/img/wn/03d@2x.png" alt="drawing" style="width:50px;"/>
+Currently, the weather in <b>Amsterdam</b> is: <b><i>Clouds - scattered clouds</i></b> with temp: <b>12°C</b>, and it feels like: <b> 12°C </b> with humidity: <b>86% </b>
 </br>Today, Temprature is <b>11°C - 14°C </b> and the sun rises at <b>07:50</b> and sets at <b>16:57</b>
 
 [![README build](https://github.com/AnasAboureada/AnasAboureada/actions/workflows/main.yaml/badge.svg)](https://github.com/AnasAboureada/AnasAboureada/actions/workflows/main.yaml)
