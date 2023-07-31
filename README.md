@@ -3,7 +3,7 @@
 #### With **20+ years** of programming experience including **10+ years** of professional experience, and **5+ years** tech leading / managing diverse teams to success.
 
 ![GitHub followers](https://img.shields.io/github/followers/anasaboureada?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/anasaboureada?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/anasaboureada?style=social)  ![Profile views](https://gpvc.arturio.dev/AnasAboureada) [![README build](https://github.com/AnasAboureada/AnasAboureada/actions/workflows/main.yaml/badge.svg)](https://github.com/AnasAboureada/AnasAboureada/actions/workflows/main.yaml)
-<br/><sup>Last updated on: `Sunday, 30 July 2023, 14:03 CEST`.</sup>
+<br/><sup>Last updated on: `Monday, 31 July 2023, 02:10 CEST`.</sup>
 
 ### Technical Skills
 
@@ -27,7 +27,7 @@
 
 ### Weather where I live
 
-<img src="http://openweathermap.org/img/wn/03d@2x.png" alt="drawing" style="width:50px;"/>
-Currently, the weather in <b>Amsterdam</b> is: <b><i>Clouds - scattered clouds</i></b> with temp: <b>20°C</b>, and it feels like: <b> 20°C </b> with humidity: <b>69% </b>
-</br>Today, Temprature is <b>19°C - 22°C </b> and the sun rises at <b>05:56</b> and sets at <b>21:36</b>
+<img src="http://openweathermap.org/img/wn/10n@2x.png" alt="drawing" style="width:50px;"/>
+Currently, the weather in <b>Amsterdam</b> is: <b><i>Rain - moderate rain</i></b> with temp: <b>17°C</b>, and it feels like: <b> 17°C </b> with humidity: <b>94% </b>
+</br>Today, Temprature is <b>15°C - 17°C </b> and the sun rises at <b>05:58</b> and sets at <b>21:35</b>
 
