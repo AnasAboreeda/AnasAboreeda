@@ -16,7 +16,7 @@ function getYearsDiff(since) {
 }
 
 let DATA = {
-  name: "Anas Aboureada",
+  name: "Anas aboreeda",
   date: new Date().toLocaleDateString("en-NL", {
     year: "numeric",
     weekday: "long",

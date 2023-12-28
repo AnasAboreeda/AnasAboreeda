@@ -1,5 +1,5 @@
 {
-  "name": "anasaboureada",
+  "name": "anasaboreeda",
   "version": "1.0.0",
   "description": "My personal github README ",
   "main": "index.js",
@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AnasAboureada/AnasAboureada.git"
+    "url": "git+https://github.com/Anasaboreeda/Anasaboreeda.git"
   },
   "keywords": [
     "README",
-    "Aboureada",
+    "aboreeda",
     "Anas"
   ],
-  "author": "Anas Aboureaea",
+  "author": "Anas Aboreeda",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AnasAboureada/AnasAboureada/issues"
+    "url": "https://github.com/Anasaboreeda/Anasaboreeda/issues"
   },
-  "homepage": "https://github.com/AnasAboureada/AnasAboureada#readme",
+  "homepage": "https://github.com/Anasaboreeda/Anasaboreeda#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
     "mustache": "^4.1.0",
