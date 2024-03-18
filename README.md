@@ -2,8 +2,8 @@
 #### I am a **Software Development Lead Engineer**
 #### With **21+ years** of programming experience including **11+ years** of professional experience, and **6+ years** tech leading / managing diverse teams to success.
 
-![GitHub followers](https://img.shields.io/github/followers/anasaboreeda?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/anasaboreeda?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/anasaboreeda?style=social)  ![Profile views](https://gpvc.arturio.dev/Anasaboreeda) [![README build](https://github.com/Anasaboreeda/Anasaboreeda/actions/workflows/main.yaml/badge.svg)](https://github.com/Anasaboreeda/Anasaboreeda/actions/workflows/main.yaml)
-<br/><sup>Last updated on: `Monday, 18 March 2024 at 13:03 CET`.</sup>
+![GitHub followers](https://img.shields.io/github/followers/anasaboreeda?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/anasaboreeda?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/anasaboreeda?style=social) [![README build](https://github.com/Anasaboreeda/Anasaboreeda/actions/workflows/main.yaml/badge.svg)](https://github.com/Anasaboreeda/Anasaboreeda/actions/workflows/main.yaml)
+<br/><sup>Last updated on: `Monday, 18 March 2024 at 17:45 CET`.</sup>
 
 ### Technical Skills
 
@@ -28,6 +28,6 @@
 ### Weather where I live
 
 <img src="http://openweathermap.org/img/wn/02d@2x.png" alt="drawing" style="width:50px;"/>
-Currently, the weather in <b>Amsterdam</b> is: <b><i>Clouds - few clouds</i></b> with temp: <b>14°C</b>, and it feels like: <b> 13°C </b> with humidity: <b>65% </b>
-</br>Today, Temprature is <b>13°C - 15°C </b> and the sun rises at <b>06:47</b> and sets at <b>18:49</b>
+Currently, the weather in <b>Amsterdam</b> is: <b><i>Clouds - few clouds</i></b> with temp: <b>13°C</b>, and it feels like: <b> 13°C </b> with humidity: <b>69% </b>
+</br>Today, Temprature is <b>13°C - 14°C </b> and the sun rises at <b>06:47</b> and sets at <b>18:49</b>
 
