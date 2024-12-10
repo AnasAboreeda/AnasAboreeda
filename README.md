@@ -3,7 +3,7 @@
 #### With **22+ years** of programming experience including **12+ years** of professional experience, and **7+ years** tech leading / managing diverse teams to success.
 
 ![GitHub followers](https://img.shields.io/github/followers/anasaboreeda?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/anasaboreeda?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/anasaboreeda?style=social) [![README build](https://github.com/Anasaboreeda/Anasaboreeda/actions/workflows/main.yaml/badge.svg)](https://github.com/Anasaboreeda/Anasaboreeda/actions/workflows/main.yaml)
-<br/><sup>Last updated on: `Tuesday, 10 December 2024 at 01:13 CET`.</sup>
+<br/><sup>Last updated on: `Tuesday, 10 December 2024 at 13:05 CET`.</sup>
 
 ### Technical Skills
 
@@ -27,7 +27,7 @@
 
 ### Weather where I live
 
-<img src="http://openweathermap.org/img/wn/04n@2x.png" alt="drawing" style="width:50px;"/>
-Currently, the weather in <b>Amsterdam</b> is: <b><i>Clouds - broken clouds</i></b> with temp: <b>5°C</b>, and it feels like: <b> 1°C </b> with humidity: <b>71% </b>
+<img src="http://openweathermap.org/img/wn/04d@2x.png" alt="drawing" style="width:50px;"/>
+Currently, the weather in <b>Amsterdam</b> is: <b><i>Clouds - broken clouds</i></b> with temp: <b>5°C</b>, and it feels like: <b> 1°C </b> with humidity: <b>73% </b>
 </br>Today, Temprature is <b>5°C - 6°C </b> and the sun rises at <b>08:39</b> and sets at <b>16:27</b>
 
