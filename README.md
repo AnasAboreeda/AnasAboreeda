@@ -1,33 +1,67 @@
-### Hi there 👋, my name is **`Anas`**
-#### I am a **Software Development Lead Engineer**
-#### With **22+ years** of programming experience including **12+ years** of professional experience, and **7+ years** tech leading / managing diverse teams to success.
+<div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/anasaboreeda?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/anasaboreeda?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/anasaboreeda?style=social) [![README build](https://github.com/Anasaboreeda/Anasaboreeda/actions/workflows/main.yaml/badge.svg)](https://github.com/Anasaboreeda/Anasaboreeda/actions/workflows/main.yaml)
-<br/><sup>Last updated on: `Monday, 10 March 2025 at 14:09 CET`.</sup>
+# Hi there, I'm **Anas** <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30" />
 
-### Technical Skills
+### Principal Software Engineer @Scopus AI | Delegate Architect | Tech Lead | Mentor
 
-- **Programming languages**: *Java, Node.js, Typescript, React, JavaScript, HTML, CSS, Python*.
-- **Frameworks**: *Spring Boot, Express.js, Redux*.
-- **Databases**: *OracleDB, PostgreSQL, MySQL, MongoDB, DynamoDB, ElasticSearch, Redis*.
-- **Cloud engineering**: *Amazon Web Services (AWS), Google Cloud Platform (GCP)*.
-- **Logging & Monitoring**: *NewRelic, Grafana, Prometheus, Kibana, Loggly, rollbar*.
-- **Other**: *Kubernetes & Docker, Kafka, RabbitMQ, Jenkins, Travis, GitHub Actions*.
+</div>
 
-### More about me
+<p align="center">
+  <img src="https://img.shields.io/github/followers/anasaboreeda?style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/anasaboreeda?style=social" alt="GitHub User's stars" />
+  <img src="https://img.shields.io/twitter/follow/anasaboreeda?style=social" alt="Twitter Follow" />
+  <a href="https://github.com/Anasaboreeda/Anasaboreeda/actions/workflows/main.yaml">
+    <img src="https://github.com/Anasaboreeda/Anasaboreeda/actions/workflows/main.yaml/badge.svg" alt="README build" />
+  </a>
+</p>
 
-- 💬 Ask me about Web development, MicroService Architecture, Domain Driven Design DDD, Resiliency, Scalability, Maintainability and Performance Optimizations.
-- 🔭 I’m currently working on Migrating legacy Java projects to new stack
+<sup>Last updated on: <b>Monday, 10 March 2025 at 14:43 CET</b></sup>
 
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
+<br />
 
-### You can follow me here
+## About Me
+
+- With **22+ years** of programming experience, including **12+ years** in international companies in 3 countries, and **6+ years** leading diverse teams.
+- Currently focused on **building Scopus AI** – and serving as its **delegate architect** to drive technical decisions and architectural design.
+- **Passionate about AI Technologies** and how they can redefine productivity and decision-making.
+- **Interested in** Web Development, Microservices, Domain-Driven Design (DDD), Resiliency, Scalability, Maintainability, and Performance Optimizations.
+
+> **🔭 Right now:** Migrating legacy Java projects to a modern stack while introducing AI-based solutions across Scopus platform.
+
+---
+
+## Technical Skills
+
+- **Languages**: Java, Node.js, TypeScript, JavaScript, React, HTML, CSS, Python
+- **Frameworks**: Spring Boot, Express.js, Redux
+- **Databases**: OracleDB, PostgreSQL, MySQL, MongoDB, DynamoDB, ElasticSearch, Redis
+- **Cloud Engineering**: AWS, GCP
+- **Logging & Monitoring**: NewRelic, Grafana, Prometheus, Kibana, Loggly, Rollbar
+- **DevOps / Infra**: Kubernetes, Docker, Kafka, RabbitMQ, Jenkins, Travis CI, GitHub Actions
+- **AI Tools / Libraries**: langchain, LangFlow, langraph
+
+---
+
+## GitHub Metrics
+
+<img src="/github-metrics.svg" alt="Metrics" width="100%" />
+
+---
+
+## Get in Touch
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Anasaboreeda)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/anasaboreeda//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://aboreeda.com)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Anasaboreeda)
+---
 
-### Weather where I live
+## Weather in Amsterdam
 
-<img src="http://openweathermap.org/img/wn/01d@2x.png" alt="drawing" style="width:50px;"/>
-Currently, the weather in <b>Amsterdam</b> is: <b><i>Clear - clear sky</i></b> with temp: <b>15°C</b>, and it feels like: <b> 14°C </b> with humidity: <b>54% </b>
-</br>Today, Temprature is <b>14°C - 17°C </b> and the sun rises at <b>07:06</b> and sets at <b>18:35</b>
+<img src="http://openweathermap.org/img/wn/01d@2x.png" alt="Weather icon" width="50" />
 
+**Currently** in **Amsterdam**:
+**Clear - clear sky**, temperature **15°C** (feels like **14°C**) with humidity **55%**.
+
+- **Today’s Range**: 13°C – 17°C
+- **Sunrise**: 07:06
+- **Sunset**: 18:35
+
+---
