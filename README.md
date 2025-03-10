@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<sup>Last updated on: <b>Monday, 10 March 2025 at 14:46 CET</b></sup>
+<sup>Last updated on: <b>Monday, 10 March 2025 at 14:47 CET</b></sup>
 
 <br />
 
