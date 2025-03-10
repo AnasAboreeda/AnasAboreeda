@@ -26,8 +26,6 @@
 - **Passionate about AI Technologies** and how they can redefine productivity and decision-making.
 - **Interested in** Web Development, Microservices, Domain-Driven Design (DDD), Resiliency, Scalability, Maintainability, and Performance Optimizations.
 
-> **🔭 Right now:** Migrating legacy Java projects to a modern stack while introducing AI-based solutions across Scopus platform.
-
 ---
 
 ## Technical Skills
