@@ -15,13 +15,13 @@
   </a>
 </p>
 
-<sup>Last updated on: <b>Monday, 10 March 2025 at 14:47 CET</b></sup>
+<sup>Last updated on: <b>Monday, 10 March 2025 at 14:54 CET</b></sup>
 
 <br />
 
 ## About Me
 
-- With **22+ years** of programming experience, including **12+ years** in international companies in 3 countries, and **6+ years** leading diverse teams.
+- With **21+ years** of programming experience, including **11+ years** in international companies in 3 countries, and **5+ years** leading diverse teams.
 - Currently focused on **building Scopus AI** – and serving as its **delegate architect** to drive technical decisions and architectural design.
 - **Passionate about AI Technologies** and how they can redefine productivity and decision-making.
 - **Interested in** Web Development, Microservices, Domain-Driven Design (DDD), Resiliency, Scalability, Maintainability, and Performance Optimizations.

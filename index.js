@@ -7,26 +7,45 @@ const fs = require('fs');
 const fetch = require('node-fetch');
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
+/**
+ * Calculate the difference in whole years since a given date.
+ * It uses ~365.25 days/year to account (somewhat) for leap years.
+ *
+ * @param {string} since - A date string (e.g., '01/09/2004').
+ * @returns {string} - Number of years (whole number) as a string.
+ */
 function getYearsDiff(since) {
-  // Generic years difference for total_exp, prof_exp, etc.
   const now = new Date();
   const start = new Date(since);
-  const diff = now - start; // ms difference
-  return Math.ceil(diff / (1000 * 3600 * 24 * 30 * 12));
+  const diff = now.getTime() - start.getTime(); // milliseconds
+
+  const years = diff / (1000 * 60 * 60 * 24 * 365.25);
+  return years.toFixed(0); // No decimals, e.g., "19"
 }
 
+/**
+ * Same as above, but stops accumulating years after a specified cutoff date.
+ *
+ * @param {string} since  - Start date (e.g., '01/01/2019').
+ * @param {string} cutoff - Cutoff date (e.g., '04/01/2024').
+ * @returns {string} - Number of years (whole number) as a string.
+ */
 function getYearsDiffWithCutoff(since, cutoff) {
-  // This will cap lead experience at 'cutoff'
   const start = new Date(since);
-  const end = new Date(cutoff); // e.g., '04/01/2024'
-  // If current date is past cutoff, freeze at cutoff
-  const actualEnd = (new Date() > end) ? end : new Date();
-  const diff = actualEnd - start;
-  return Math.ceil(diff / (1000 * 3600 * 24 * 30 * 12));
+  const end = new Date(cutoff);
+  const now = new Date();
+
+  // If current date is past cutoff, freeze at cutoff; otherwise use now
+  const actualEnd = now > end ? end : now;
+
+  const diff = actualEnd.getTime() - start.getTime();
+  const years = diff / (1000 * 60 * 60 * 24 * 365.25);
+
+  return years.toFixed(0); // No decimals
 }
 
 let DATA = {
-  name: 'Anas aboreeda',
+  name: 'Anas Aboreeda',
   date: new Date().toLocaleDateString('en-NL', {
     year: 'numeric',
     weekday: 'long',
@@ -37,10 +56,11 @@ let DATA = {
     timeZoneName: 'short',
     timeZone: 'Europe/Amsterdam',
   }),
-  // General / professional experience
-  total_exp: getYearsDiff('01/09/2004'),     // from 2004
-  prof_exp: getYearsDiff('01/03/2014'),      // from 2014
-  // Freeze lead experience at April 2024
+  // Example: unlimited accumulation
+  total_exp: getYearsDiff('01/09/2004'),
+  prof_exp: getYearsDiff('01/03/2014'),
+
+  // Example: capping lead experience at a specific date
   lead_exp: getYearsDiffWithCutoff('01/01/2019', '04/01/2024'),
 };
 
@@ -91,7 +111,7 @@ function generateReadMe() {
 
 async function action() {
   await setWeatherInformation();
-  console.log(`Data:`, JSON.stringify(DATA, null, 2));
+  console.log('Data:', JSON.stringify(DATA, null, 2));
   generateReadMe();
 }
 
