@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there, I'm **Anas** <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30" />
+# Hi there, I'm **Anas Anoreeda** (fka Aboureada) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30" />
 
-### Principal Software Engineer @Scopus AI | Delegate Architect | Tech Lead | Mentor
+### Software Engineering Lead @Scopus AI | Delegate Architect | Tech Lead | Mentor
 
 </div>
 
