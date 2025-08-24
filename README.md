@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there, I'm **Anas** <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30" />
+# Hi there, I'm **Anas Aboreeda** (FKA Aboureada) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30" />
 
-### Principal Software Engineer @Scopus AI | Delegate Architect | Tech Lead | Mentor
+### Software Engineering Lead @Scopus AI | Delegate Architect | Tech Lead | Mentor
 
 </div>
 
@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<sup>Last updated on: <b>Sunday, 24 August 2025 at 08:40 CEST</b></sup>
+<sup>Last updated on: <b>Sunday, 24 August 2025 at 08:41 CEST</b></sup>
 
 <br />
 
@@ -56,7 +56,7 @@
 <img src="http://openweathermap.org/img/wn/02d@2x.png" alt="Weather icon" width="50" />
 
 **Currently** in **Amsterdam**:
-**Clouds - few clouds**, temperature **13°C** (feels like **12°C**) with humidity **82%**.
+**Clouds - few clouds**, temperature **13°C** (feels like **13°C**) with humidity **82%**.
 
 - **Today’s Range**: 12°C – 14°C
 - **Sunrise**: 06:38
