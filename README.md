@@ -17,7 +17,7 @@
   </a>
 </p>
 
-<sup>Last updated on: <b>Sunday, 29 March 2026 at 14:09 CEST</b></sup>
+<sup>Last updated on: <b>Monday, 30 March 2026 at 02:23 CEST</b></sup>
 
 <br />
 
@@ -55,13 +55,13 @@
 
 ## Weather in Amsterdam
 
-<img src="http://openweathermap.org/img/wn/02d@2x.png" alt="Weather icon" width="50" />
+<img src="http://openweathermap.org/img/wn/09n@2x.png" alt="Weather icon" width="50" />
 
 **Currently** in **Amsterdam**:
-**Clouds - few clouds**, temperature **10°C** (feels like **6°C**) with humidity **64%**.
+**Rain - shower rain**, temperature **6°C** (feels like **1°C**) with humidity **71%**.
 
-- **Today’s Range**: 9°C – 11°C
-- **Sunrise**: 07:22
-- **Sunset**: 20:07
+- **Today’s Range**: 5°C – 7°C
+- **Sunrise**: 07:19
+- **Sunset**: 20:09
 
 ---
