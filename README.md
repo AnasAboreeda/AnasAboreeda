@@ -17,13 +17,13 @@
   </a>
 </p>
 
-<sup>Last updated on: <b>Friday, 10 July 2026 at 04:30 CEST</b></sup>
+<sup>Last updated on: <b>Friday, 10 July 2026 at 16:09 CEST</b></sup>
 
 <br />
 
 ## About Me
 
-- With **22+ years** of programming experience, including **13+ years** in international companies in 3 countries, and **5+ years** leading diverse teams.
+- With **23+ years** of programming experience, including **13+ years** in international companies in 3 countries, and **5+ years** leading diverse teams.
 - Currently focused on **building Scopus AI** – and serving as its **delegate architect** to drive technical decisions and architectural design.
 - **Passionate about AI Technologies** and how they can redefine productivity and decision-making.
 - **Interested in** Web Development, Microservices, Domain-Driven Design (DDD), Resiliency, Scalability, Maintainability, and Performance Optimizations.
@@ -55,12 +55,12 @@
 
 ## Weather in Amsterdam
 
-<img src="http://openweathermap.org/img/wn/04n@2x.png" alt="Weather icon" width="50" />
+<img src="http://openweathermap.org/img/wn/01d@2x.png" alt="Weather icon" width="50" />
 
 **Currently** in **Amsterdam**:
-**Clouds - broken clouds**, temperature **17°C** (feels like **17°C**) with humidity **85%**.
+**Clear - clear sky**, temperature **26°C** (feels like **26°C**) with humidity **52%**.
 
-- **Today’s Range**: 15°C – 18°C
+- **Today’s Range**: 25°C – 28°C
 - **Sunrise**: 05:30
 - **Sunset**: 22:00
 
