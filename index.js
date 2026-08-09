@@ -56,12 +56,9 @@ let DATA = {
     timeZoneName: 'short',
     timeZone: 'Europe/Amsterdam',
   }),
-  // Example: unlimited accumulation
   total_exp: getYearsDiff('01/09/2004'),
   prof_exp: getYearsDiff('01/03/2014'),
-
-  // Example: capping lead experience at a specific date
-  lead_exp: getYearsDiffWithCutoff('01/01/2019', '04/01/2024'),
+  lead_exp: getYearsDiff('01/01/2019'),
 };
 
 async function setWeatherInformation() {
