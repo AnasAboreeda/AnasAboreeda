@@ -17,13 +17,13 @@
   </a>
 </p>
 
-<sup>Last updated on: <b>Sunday, 9 August 2026 at 09:17 CEST</b></sup>
+<sup>Last updated on: <b>Sunday, 9 August 2026 at 09:21 CEST</b></sup>
 
 <br />
 
 ## About Me
 
-👋 I'm an **Engineering Manager and software engineer** with **23+ years of programming experience**, **13+ years in international companies across three countries**, and **5+ years managing engineering teams**.
+👋 I'm an **Engineering Manager and software engineer** with **23+ years of programming experience**, **13+ years in international companies across three countries**, and **8+ years managing engineering teams**.
 
 🔭 Currently at **Elsevier**, building and scaling engineering teams working on **LeapSpace**, an AI-powered platform for scientific research and discovery.
 
