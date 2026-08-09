@@ -4,7 +4,7 @@
 
 ## FKA Anas Aboureada
 
-### Software Engineering Lead @Scopus AI | Delegate Architect | Tech Lead | Mentor
+### Software Engineering Manager @Elsevier | LeapSpace | AI Engineering | Delegate Architect
 
 </div>
 
@@ -17,28 +17,51 @@
   </a>
 </p>
 
-<sup>Last updated on: <b>Sunday, 9 August 2026 at 03:15 CEST</b></sup>
+<sup>Last updated on: <b>Sunday, 9 August 2026 at 09:17 CEST</b></sup>
 
 <br />
 
 ## About Me
 
-- With **23+ years** of programming experience, including **13+ years** in international companies in 3 countries, and **5+ years** leading diverse teams.
-- Currently focused on **building Scopus AI** – and serving as its **delegate architect** to drive technical decisions and architectural design.
-- **Passionate about AI Technologies** and how they can redefine productivity and decision-making.
-- **Interested in** Web Development, Microservices, Domain-Driven Design (DDD), Resiliency, Scalability, Maintainability, and Performance Optimizations.
+👋 I'm an **Engineering Manager and software engineer** with **23+ years of programming experience**, **13+ years in international companies across three countries**, and **5+ years managing engineering teams**.
+
+🔭 Currently at **Elsevier**, building and scaling engineering teams working on **LeapSpace**, an AI-powered platform for scientific research and discovery.
+
+🤖 I'm passionate about **AI and its potential to reshape software engineering, research, productivity, and decision-making**.
+
+🧭 My interests include:
+
+* Engineering Management & Technical Leadership
+* Building high-performing engineering teams
+* AI-powered products
+* Software & Distributed Systems Architecture
+* Scalability, Resiliency & Reliability
+* Maintainability & Engineering Quality
+* Performance Optimization
+
+I enjoy working at the intersection of **people, technology, and product**—building strong teams and robust systems that can scale with both the organization and its users.
 
 ---
 
 ## Technical Skills
 
-- **Languages**: Java, Node.js, TypeScript, JavaScript, React, HTML, CSS, Python
-- **Frameworks**: Spring Boot, Express.js, Redux
-- **Databases**: OracleDB, PostgreSQL, MySQL, MongoDB, DynamoDB, ElasticSearch, Redis
-- **Cloud Engineering**: AWS, GCP
-- **Logging & Monitoring**: NewRelic, Grafana, Prometheus, Kibana, Loggly, Rollbar
-- **DevOps / Infra**: Kubernetes, Docker, Kafka, RabbitMQ, Jenkins, Travis CI, GitHub Actions
-- **AI Tools / Libraries**: langchain, LangFlow, langraph
+My background spans **backend engineering, distributed systems, cloud-native architectures, observability, and AI-powered applications**, with hands-on experience designing and operating production systems at scale.
+
+* **Programming Languages**: Java, Python, TypeScript, JavaScript
+* **Backend & APIs**: Spring Boot, Node.js, Express.js, REST APIs
+* **Frontend**: React, Redux, HTML, CSS
+* **Databases & Search**: PostgreSQL, Oracle Database, MySQL, MongoDB, DynamoDB, Elasticsearch, Redis
+* **Cloud Platforms**: AWS, Google Cloud Platform (GCP)
+* **Containers & Orchestration**: Kubernetes, Docker
+* **Distributed Systems & Messaging**: Apache Kafka, RabbitMQ
+* **Observability & Reliability**: Prometheus, Grafana, New Relic, Kibana, Loggly, Rollbar
+* **CI/CD & Engineering Automation**: GitHub Actions, Jenkins, Travis CI
+* **AI / LLM Engineering**: LangChain, LangGraph, Langflow
+
+### Areas of Technical Focus
+
+`Distributed Systems` · `Software Architecture` · `Cloud-Native Engineering` · `Scalability` · `Resiliency` · `Observability` · `Performance Optimization` · `AI-Powered Applications`
+
 
 ---
 
@@ -55,12 +78,12 @@
 
 ## Weather in Amsterdam
 
-<img src="http://openweathermap.org/img/wn/04n@2x.png" alt="Weather icon" width="50" />
+<img src="http://openweathermap.org/img/wn/02d@2x.png" alt="Weather icon" width="50" />
 
 **Currently** in **Amsterdam**:
-**Clouds - overcast clouds**, temperature **16°C** (feels like **16°C**) with humidity **82%**.
+**Clouds - few clouds**, temperature **20°C** (feels like **20°C**) with humidity **64%**.
 
-- **Today’s Range**: 14°C – 17°C
+- **Today's Range**: 19°C – 22°C
 - **Sunrise**: 06:13
 - **Sunset**: 21:18
 
