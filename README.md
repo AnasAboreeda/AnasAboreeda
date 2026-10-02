@@ -17,7 +17,7 @@
   </a>
 </p>
 
-<sup>Last updated on: <b>Friday, 2 October 2026 at 05:42 CEST</b></sup>
+<sup>Last updated on: <b>Friday, 2 October 2026 at 19:17 CEST</b></sup>
 
 <br />
 
@@ -78,12 +78,12 @@ My background spans **backend engineering, distributed systems, cloud-native arc
 
 ## Weather in Amsterdam
 
-<img src="http://openweathermap.org/img/wn/02n@2x.png" alt="Weather icon" width="50" />
+<img src="http://openweathermap.org/img/wn/03d@2x.png" alt="Weather icon" width="50" />
 
 **Currently** in **Amsterdam**:
-**Clouds - few clouds**, temperature **11°C** (feels like **11°C**) with humidity **97%**.
+**Clouds - scattered clouds**, temperature **17°C** (feels like **17°C**) with humidity **75%**.
 
-- **Today's Range**: 11°C – 13°C
+- **Today's Range**: 17°C – 18°C
 - **Sunrise**: 07:42
 - **Sunset**: 19:16
 
