@@ -19,7 +19,9 @@ jobs:
 
       # metrics@3.34 renders zeros instead of failing when GitHub's GraphQL API times out (502).
       # Render up to 3 times and commit only an image that passes check-metrics.sh.
-      - id: render1
+      # Keep step ids as lowlighter_metrics_*: the action derives "lowlighter" from the id to pull
+      # its prebuilt image; any other id rebuilds it from a Dockerfile that no longer builds.
+      - id: lowlighter_metrics_1
         uses: lowlighter/metrics@latest
         continue-on-error: true
         with: &metrics
@@ -60,7 +62,7 @@ jobs:
       - id: check1
         run: .github/scripts/check-metrics.sh /metrics_renders/github-metrics.svg
 
-      - id: render2
+      - id: lowlighter_metrics_2
         if: steps.check1.outputs.ok != 'true'
         uses: lowlighter/metrics@latest
         continue-on-error: true
@@ -69,7 +71,7 @@ jobs:
         if: steps.check1.outputs.ok != 'true'
         run: .github/scripts/check-metrics.sh /metrics_renders/github-metrics.svg
 
-      - id: render3
+      - id: lowlighter_metrics_3
         if: steps.check1.outputs.ok != 'true' && steps.check2.outputs.ok != 'true'
         uses: lowlighter/metrics@latest
         continue-on-error: true
