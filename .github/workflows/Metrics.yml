@@ -15,10 +15,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          plugin_achievements: yes
-          plugin_achievements_only: >-
-            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
-            scripter, packager, explorer, infographile, manager
+          # plugin_achievements removed: it queries Projects (classic), which GitHub sunset
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           extras_css: |
@@ -44,7 +41,5 @@ jobs:
           plugin_languages_ignored: >-
             html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
             gnuplot
-          plugin_languages_indepth: yes
-          plugin_languages_details: lines, bytes-size
+          plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 4
-          plugin_languages_analysis_timeout: 15
