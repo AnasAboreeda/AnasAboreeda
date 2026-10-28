@@ -23,7 +23,7 @@ Based in Amsterdam.
 
 | 15M+ | 1M+ | $6.5M+ | 135+ |
 | :-- | :-- | :-- | :-- |
-| Researchers served each year by Scopus AI and LeapSpace | Active users on LeapSpace within 10 months of launch | LeapSpace subscriptions sold since the January 2026 launch | Engineers led across teams |
+| Researchers served each year by Scopus AI and LeapSpace | Active users on LeapSpace within 10 months of launch | LeapSpace subscriptions in the first 10 months | Engineers led across teams |
 
 <sub>23+ years writing software · 13+ years across Stockholm, Alexandria and Amsterdam · 8+ years leading teams</sub>
 
@@ -36,7 +36,7 @@ Based in Amsterdam.
 ## Selected work
 
 - **[LeapSpace: from zero to 1M+ active users](https://anascode.com/work#leapspace)** <sub>Elsevier, Aug 2025 to present</sub><br />
-  Launched in January 2026. Subscription sales have passed $6.5M, and active users passed 1M in October 2026.
+  Launched in January 2026. $6.5M+ in subscriptions and 1M+ active users in the first 10 months.
 - **[Engineering Village: a $40M+ discovery platform](https://anascode.com/work#engineering-village)** <sub>Elsevier, Sep 2022 to Mar 2024</sub><br />
   About $500K saved per year, and pipelines that are more scalable, more traceable and less error-prone.
 - **[Scopus: modernizing a legacy platform](https://anascode.com/work#scopus)** <sub>Elsevier, Sep 2020 to Aug 2022</sub><br />
