@@ -6,16 +6,26 @@ on:
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
   push: {branches: ["master", "main"]}
+concurrency:
+  group: metrics
+  cancel-in-progress: true
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
-        with:
+      - uses: actions/checkout@v4
+
+      # metrics@3.34 renders zeros instead of failing when GitHub's GraphQL API times out (502).
+      # Render up to 3 times and commit only an image that passes check-metrics.sh.
+      - id: render1
+        uses: lowlighter/metrics@latest
+        continue-on-error: true
+        with: &metrics
           token: ${{ secrets.METRICS_TOKEN }}
-          # 100 repos per query makes GitHub's GraphQL return 502, which renders zero stars and languages.
+          output_action: none
+          # 100 repos per query makes GitHub's GraphQL return 502.
           # metrics@3.34 stops after the first page when batch < repositories, so keep both equal.
           repositories: 50
           repositories_batch: 50
@@ -47,3 +57,41 @@ jobs:
             gnuplot, jupyter notebook
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 4
+      - id: check1
+        run: .github/scripts/check-metrics.sh /metrics_renders/github-metrics.svg
+
+      - id: render2
+        if: steps.check1.outputs.ok != 'true'
+        uses: lowlighter/metrics@latest
+        continue-on-error: true
+        with: *metrics
+      - id: check2
+        if: steps.check1.outputs.ok != 'true'
+        run: .github/scripts/check-metrics.sh /metrics_renders/github-metrics.svg
+
+      - id: render3
+        if: steps.check1.outputs.ok != 'true' && steps.check2.outputs.ok != 'true'
+        uses: lowlighter/metrics@latest
+        continue-on-error: true
+        with: *metrics
+      - id: check3
+        if: steps.check1.outputs.ok != 'true' && steps.check2.outputs.ok != 'true'
+        run: .github/scripts/check-metrics.sh /metrics_renders/github-metrics.svg
+
+      - name: Commit github-metrics.svg
+        run: |
+          if [ "${{ steps.check1.outputs.ok }}${{ steps.check2.outputs.ok }}${{ steps.check3.outputs.ok }}" != "true" ]; then
+            echo "::error::No valid metrics render after 3 attempts; keeping the previous image"
+            exit 1
+          fi
+          cp /metrics_renders/github-metrics.svg github-metrics.svg
+          if git diff --quiet -- github-metrics.svg; then
+            echo "github-metrics.svg unchanged"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github-metrics.svg
+          git commit -m "Update github-metrics.svg - [Skip GitHub Action]"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
