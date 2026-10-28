@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Anas Aboreeda: Engineering leader for AI products">
+  <style>
+    .label { font: 500 16px 'IBM Plex Mono', ui-monospace, 'SF Mono', Menlo, monospace; letter-spacing: 2px; }
+    .name { font: 400 76px Newsreader, 'Iowan Old Style', Georgia, serif; letter-spacing: -1px; }
+    .tag { font: 400 26px 'Instrument Sans', -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .meta { font: 400 16px 'IBM Plex Mono', ui-monospace, 'SF Mono', Menlo, monospace; }
+  </style>
+  <rect x="0.5" y="0.5" width="1199" height="319" rx="12" fill="#0f1217" stroke="#2a303a"/>
+  <text x="64" y="80" class="label" fill="#ff8a65">ENGINEERING MANAGER &amp; SOLUTION ARCHITECT · ELSEVIER</text>
+  <text x="64" y="172" class="name" fill="#ece9e2">Anas Aboreeda</text>
+  <text x="64" y="220" class="tag" fill="#b7b3ab">Engineering leader for AI products. Teams and architecture that ship.</text>
+  <line x1="64" y1="256" x2="1136" y2="256" stroke="#1d222b"/>
+  <text x="64" y="288" class="meta" fill="#8a8579">FKA Anas Aboureada · Amsterdam</text>
+  <text x="1136" y="288" class="meta" fill="#ff8a65" text-anchor="end">anascode.com</text>
+</svg>

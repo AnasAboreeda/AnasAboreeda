@@ -23,21 +23,21 @@ jobs:
           plugin_isocalendar_duration: full-year
           extras_css: |
             .field svg {
-              fill: #58b9d0;
+              fill: #b3361b;
             }
             .field {
-              color: #2986b8;
+              color: #8a8579;
             }
             h1, h2, h3 {
-              color: #284a92 !important;
+              color: #b3361b !important;
             }
           extras_js: |
             for (const {a, b} of [
-              {a:"#216e39", b:"#b7dfcb"},
-              {a:"#30a14e", b:"#58b9d0"},
-              {a:"#40c463", b:"#2986b8"},
-              {a:"#9be9a8", b:"#284a92"},
-              {a:"#ebedf0", b:"#192062"},
+              {a:"#216e39", b:"#8f2a14"},
+              {a:"#30a14e", b:"#b3361b"},
+              {a:"#40c463", b:"#d9735a"},
+              {a:"#9be9a8", b:"#f3c9b9"},
+              {a:"#ebedf0", b:"#e3dfd5"},
             ])
             document.querySelectorAll(`svg g [fill="${a}"]`).forEach(node => node.setAttribute("fill", b))
           plugin_languages: yes
