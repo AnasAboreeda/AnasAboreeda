@@ -15,8 +15,10 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          # 100 repos per query makes GitHub's GraphQL return 502, which renders zero stars and languages
-          repositories_batch: 25
+          # 100 repos per query makes GitHub's GraphQL return 502, which renders zero stars and languages.
+          # metrics@3.34 stops after the first page when batch < repositories, so keep both equal.
+          repositories: 50
+          repositories_batch: 50
           # plugin_achievements removed: it queries Projects (classic), which GitHub sunset
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
