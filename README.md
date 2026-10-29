@@ -74,12 +74,12 @@ On GitHub: [Penetration Testing Study Notes](https://github.com/AnasAboreeda/Pen
 
 ## Amsterdam right now
 
-<img src="https://openweathermap.org/img/wn/04n@2x.png" alt="Weather icon" width="40" align="left" />
+<img src="https://openweathermap.org/img/wn/09n@2x.png" alt="Weather icon" width="40" align="left" />
 
-**Clouds - broken clouds**, 13°C (feels like 12°C), humidity 75%.<br />
-<sub>Range 11°C to 13°C · Sunrise 07:28 · Sunset 17:19</sub>
+**Drizzle - light intensity drizzle**, 11°C (feels like 11°C), humidity 94%.<br />
+<sub>Range 10°C to 12°C · Sunrise 07:30 · Sunset 17:17</sub>
 
 ---
 
 <sub>I write about AI systems, architecture, cloud, backend and engineering leadership. If that overlaps with what you are building or hiring for, [say hello](https://anascode.com/contact).</sub><br />
-<sub>Last updated Wednesday, 28 October 2026 at 18:47 CET · [README build](https://github.com/Anasaboreeda/Anasaboreeda/actions/workflows/main.yaml)</sub>
+<sub>Last updated Thursday, 29 October 2026 at 04:59 CET · [README build](https://github.com/Anasaboreeda/Anasaboreeda/actions/workflows/main.yaml)</sub>
