@@ -11,7 +11,7 @@ Engineering Manager @ Elsevier | AI Products & Software Architecture | LeapSpace
 
 I lead engineering and architecture for LeapSpace at Elsevier, turning AI capabilities into reliable production systems.
 
-I started leading LeapSpace as acting engineering manager in August 2025, formed the team and assigned responsibilities. We delivered a production beta in six weeks and the full commercial launch in January 2026. My formal promotion to Software Engineering Manager followed in June 2026.
+We delivered a production beta in six weeks and the full commercial launch in January 2026.
 
 Previously, I owned Scopus Search Query Language parsing, migrated it to ANTLR and built a query-processing pipeline. My earlier work includes engineering leadership for Engineering Village and Scopus, and replacing a legacy platform at Zoover.
 
