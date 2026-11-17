@@ -13,19 +13,14 @@
   <a href="https://github.com/anasaboreeda?tab=followers"><img src="https://img.shields.io/github/followers/anasaboreeda?style=flat-square&label=Followers&labelColor=14181f&color=b3361b" alt="GitHub followers" /></a>
 </p>
 
-**Engineering leader for AI products. 15M+ researchers use what my teams build each year.**
+**Engineering leader for AI products.**
 
-I am an engineering manager and a solution architect at Elsevier.
-I took LeapSpace from inception to production in under 6 months.
-It passed 1M active users within 10 months of launch.
-Before that I led Scopus AI and Engineering Village.
+I lead engineering and architecture for LeapSpace at Elsevier, turning AI capabilities into reliable production systems.
+I started leading LeapSpace as acting engineering manager in August 2025, formed the team and assigned responsibilities.
+We delivered a production beta in six weeks and the full commercial launch in January 2026.
+My formal promotion to Software Engineering Manager followed in June 2026.
+Previously, I owned Scopus Search Query Language parsing, migrated it to ANTLR and built a query-processing pipeline.
 Based in Amsterdam.
-
-| 15M+ | 1M+ | $6.5M+ | 135+ |
-| :-- | :-- | :-- | :-- |
-| Researchers served each year by Scopus AI and LeapSpace | Active users on LeapSpace within 10 months of launch | LeapSpace subscriptions in the first 10 months | Engineers led across teams |
-
-<sub>23+ years writing software · 13+ years across Stockholm, Alexandria and Amsterdam · 8+ years leading teams</sub>
 
 ## What I focus on
 
@@ -35,10 +30,10 @@ Based in Amsterdam.
 
 ## Selected work
 
-- **[LeapSpace: from zero to 1M+ active users](https://anascode.com/work#leapspace)** <sub>Elsevier, Aug 2025 to present</sub><br />
-  Launched in January 2026. $6.5M+ in subscriptions and 1M+ active users in the first 10 months.
-- **[Engineering Village: a $40M+ discovery platform](https://anascode.com/work#engineering-village)** <sub>Elsevier, Sep 2022 to Mar 2024</sub><br />
-  About $500K saved per year, and pipelines that are more scalable, more traceable and less error-prone.
+- **[LeapSpace: building an AI research platform](https://anascode.com/work#leapspace)** <sub>Elsevier, acting engineering manager from Aug 2025; Software Engineering Manager from Jun 2026</sub><br />
+  Formed the team and led delivery of a production beta in six weeks, followed by the full commercial launch in January 2026.
+- **[Engineering Village: modernizing research discovery](https://anascode.com/work#engineering-village)** <sub>Elsevier, Sep 2022 to Mar 2024</sub><br />
+  Led engineering teams, moved the team from Dayton to Amsterdam and migrated data pipelines to the cloud, improving scalability and traceability.
 - **[Scopus: modernizing a legacy platform](https://anascode.com/work#scopus)** <sub>Elsevier, Sep 2020 to Aug 2022</sub><br />
   API responses dropped from about 30 seconds to about 3. Releases moved from monthly to daily.
 - **[Zoover: replacing a 15-year-old legacy system](https://anascode.com/work#zoover)** <sub>Zoover, Jan 2019 to Sep 2020</sub><br />
