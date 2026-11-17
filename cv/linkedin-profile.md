@@ -1,105 +1,89 @@
-# LinkedIn profile copy
+# LinkedIn-aligned profile copy
 
-Paste each block into the matching LinkedIn field.
-Source of truth: `cv/resume.html` and anascode.com.
+Review copy aligned with the live LinkedIn profile and anascode.com on 17 November 2026.
+This file does not update LinkedIn. Role titles and dates below follow the live profile; the summary follows the website.
 
 ## Headline
 
-Engineering Manager & Solution Architect at Elsevier | Engineering leader for AI products | Took LeapSpace from zero to 1M+ users | LangChain, LangGraph, AWS, Java
+Engineering Manager @ Elsevier | AI Products & Software Architecture | LeapSpace & Scopus AI
 
 ## About
 
-I lead the teams and architecture that turn AI capabilities into reliable production systems.
+I lead engineering and architecture for LeapSpace at Elsevier, turning AI capabilities into reliable production systems.
 
-At Elsevier I took LeapSpace, a new AI platform for research discovery, from inception to production in under 6 months. I built the team from zero. It launched in January 2026 and reached $6.5M+ in subscriptions and 1M+ active users in the first 10 months.
+I started leading LeapSpace as acting engineering manager in August 2025, formed the team and assigned responsibilities. We delivered a production beta in six weeks and the full commercial launch in January 2026. My formal promotion to Software Engineering Manager followed in June 2026.
 
-Before that I led engineering and architecture for Scopus AI, Scopus and Engineering Village. Together these serve 15M+ researchers every year.
+Previously, I owned Scopus Search Query Language parsing, migrated it to ANTLR and built a query-processing pipeline. My earlier work includes engineering leadership for Engineering Village and Scopus, and replacing a legacy platform at Zoover.
 
-What I focus on:
-- Engineering leadership: clear ownership and sound technical judgment
-- Architecture at scale: distributed systems, microservices and cloud platforms that stay maintainable and secure
-- AI engineering: prototypes turned into production systems that are reliable, observable and secure
+I focus on clear ownership, sound technical judgment, maintainable architecture and reliable production AI systems. Based in Amsterdam.
 
-Selected results:
-- LeapSpace: inception to production in under 6 months; $6.5M+ in subscriptions and 1M+ active users in the first 10 months
-- Engineering Village ($40M+): about $500K saved per year; pipelines moved to the cloud
-- Scopus: API responses cut from about 30s to 3s; releases from monthly to daily
-- Zoover: average page load cut from 9s to 3s
-
-20+ years writing software across Stockholm, Alexandria and Amsterdam. 7+ years leading teams; 135+ engineers led across teams.
-
-I write about AI systems, architecture and engineering leadership at anascode.com and on Medium.
+I write about software engineering and architecture at anascode.com and on Medium.
 
 ## Experience
 
-### Manager, Software Engineering & Solution Architect
-Elsevier · Jun 2026 - Present · Amsterdam
+### Software Engineering Manager
+Elsevier - LeapSpace · Jun 2026 - Present · Amsterdam, NL
 
-- Leading LeapSpace, a new AI platform for research discovery, since inception in Aug 2025
-- Launched January 2026; $6.5M+ in subscriptions and 1M+ active users in the first 10 months
-- Own the technical strategy, architecture and team structure as the platform scales
-- Promoted from Software Engineering Lead in Jun 2026
+- Lead engineering for LeapSpace, an AI platform for scientific research and discovery.
+- Drive technical strategy, architecture and team structure as the platform scales.
+- Drive adoption of Extreme Reuse and mentor teams on integrating AI/ML into production systems.
 
-Skills: Engineering Management · Solution Architecture · Generative AI
+### Software Engineering Lead
+Elsevier - LeapSpace · Jul 2025 - Jun 2026 · Amsterdam, NL
 
-### Software Engineering Lead & Solution Architect
-Elsevier · Aug 2025 - May 2026 · Amsterdam
-
-- Started and led LeapSpace from inception; took it to production in under 6 months
-- Built the team from zero: recruiting, team topology and ways of working
-- Drove adoption of LangChain and LangGraph; mentored teams on AI/ML integration
-
-Skills: LangChain · LangGraph · AWS · Team Building
+- Led LeapSpace as acting engineering manager from August 2025 while formally a Software Engineering Lead.
+- Formed the team, assigned responsibilities and led delivery from zero to a production beta in six weeks.
+- Led the platform through its full commercial launch in January 2026.
 
 ### Principal Software Engineer
-Elsevier · Apr 2024 - Jul 2025 · Amsterdam
+Elsevier - Scopus · Apr 2024 - Jul 2025 · Amsterdam, NL
 
-- Led engineering and architecture for Scopus AI
-- Owned the language parsing capabilities of the Scopus Search Query Language
-- Migrated parsing to ANTLR, improving search efficiency and accuracy
-- Built a pipeline to support ongoing enhancements and scalability of query processing
+- Owned Scopus Search Query Language parsing and migrated it to ANTLR.
+- Designed and built a query-processing pipeline to support continued improvements and scaling.
 
-Skills: ANTLR · Java · Search · Generative AI
+### Lead Software Engineer
+Elsevier - Engineering Village · Sep 2022 - Mar 2024 · Amsterdam, NL
 
-### Software Engineering Lead, Engineering Village
-Elsevier · Sep 2022 - Mar 2024 · Amsterdam
+- Led engineering teams, including hiring, onboarding, coaching and career development.
+- Moved the team from Dayton, Ohio to Amsterdam.
+- Migrated big data pipelines from on-premises infrastructure to the cloud, improving scalability and traceability.
 
-- Accountable for Engineering Village ($40M+), a leading engineering information discovery platform
-- Managed 2 teams of 12+ engineers: hiring, onboarding, coaching and career growth
-- Moved the team from Dayton, Ohio to Amsterdam, saving about $500K per year
-- Migrated big data pipelines from on-premises to the cloud
+### Lead Software Engineer
+Elsevier - Scopus · Sep 2020 - Aug 2022 · Amsterdam, NL
 
-Skills: People Management · Cloud Migration · Data Pipelines
-
-### Software Engineering Lead, Scopus
-Elsevier · Sep 2020 - Aug 2022 · Amsterdam
-
-- Managed a scrum team of 5+ engineers
-- Cut legacy API response time from about 30s to 3s
-- Rebuilt the author feedback wizard from JSP to React/Redux; releases moved from monthly to daily
-- Designed a data-driven author profile curation system and delivered a proof of concept
-
-Skills: React · Redux · Java · API Performance
+- Managed hiring, onboarding, coaching and career development for a software engineering team.
+- Reduced legacy API response time from about 30 seconds to about 3 seconds.
+- Rebuilt the author feedback wizard from JSP to React and Redux; releases moved from monthly to daily.
+- Designed a data-driven author profile curation system and delivered a proof of concept.
 
 ### Software Development Team Lead
-Zoover · Jan 2019 - Aug 2020 · Amsterdam
+Zoover · Jan 2019 - Sep 2020 · Amsterdam, NL
 
-- Led a team of 4-6 engineers replacing a 15+ year old black-box system
-- Cut average page load from 9s to 3s
-- Built an internal headless CMS, saving about 50 hours of manual data entry per batch
-- Redesigned the ElasticSearch cluster architecture; data sync became 5x faster
-
-### Full Stack Software Engineer
-Zoover · Jun 2018 - Dec 2018 · Amsterdam
-
-- Built features for zoover.nl in React, Redux and Node.js, plus SEO and analytics work
+- Led the migration of a black-box legacy system more than 15 years old to a new technology stack.
+- Managed and coached developers, supported hiring and onboarded new team members.
+- Built an internal headless CMS to reduce manual work.
+- Reduced average page-load time from 9 seconds to 3 seconds.
 
 ### Full Stack Web Developer
-DoReMIR Music Research · Jul 2015 - Mar 2018 · Stockholm
+Zoover · Jun 2018 - Dec 2018 · Amsterdam, NL
 
-- Designed a serverless audio analysis backend on AWS Lambda, API Gateway, DynamoDB and S3
-- Built REST APIs and features for the ScoreCloud backend in Node.js and PostgreSQL
+- Built features for zoover.nl using React, Redux and Node.js, including SEO improvements and analytics integration.
+- Redesigned the Elasticsearch cluster architecture to improve data synchronization.
 
-## Top skills (pin these 5)
+### Full Stack Web Developer
+DoReMIR Music Research AB · Jul 2015 - Mar 2018 · Stockholm, SE
 
-Engineering Management · Solution Architecture · Generative AI · Distributed Systems · AWS
+- Designed a serverless audio analysis backend on AWS Lambda, API Gateway, DynamoDB and S3.
+- Built REST APIs and improved the ScoreCloud backend with Node.js and PostgreSQL.
+
+### Earlier roles
+Globalmouth, Madar Soft and freelance clients · 2003 - 2015 · Stockholm and Alexandria
+
+- Built web, mobile and desktop software, including hybrid mobile apps with Angular and Cordova.
+
+## Sources
+
+- https://www.linkedin.com/in/anasaboreeda/
+- https://www.linkedin.com/in/anasaboreeda/details/experience/
+- https://anascode.com/about
+- https://anascode.com/work
