@@ -16,9 +16,7 @@
 **Engineering leader for AI products.**
 
 I lead engineering and architecture for LeapSpace at Elsevier, turning AI capabilities into reliable production systems.
-I started leading LeapSpace as acting engineering manager in August 2025, formed the team and assigned responsibilities.
 We delivered a production beta in six weeks and the full commercial launch in January 2026.
-My formal promotion to Software Engineering Manager followed in June 2026.
 Previously, I owned Scopus Search Query Language parsing, migrated it to ANTLR and built a query-processing pipeline.
 Based in Amsterdam.
 
@@ -30,7 +28,7 @@ Based in Amsterdam.
 
 ## Selected work
 
-- **[LeapSpace: building an AI research platform](https://anascode.com/work#leapspace)** <sub>Elsevier, acting engineering manager from Aug 2025; Software Engineering Manager from Jun 2026</sub><br />
+- **[LeapSpace: building an AI research platform](https://anascode.com/work#leapspace)** <sub>Elsevier, Software Engineering Manager from Jun 2026</sub><br />
   Formed the team and led delivery of a production beta in six weeks, followed by the full commercial launch in January 2026.
 - **[Engineering Village: modernizing research discovery](https://anascode.com/work#engineering-village)** <sub>Elsevier, Sep 2022 to Mar 2024</sub><br />
   Led engineering teams, moved the team from Dayton to Amsterdam and migrated data pipelines to the cloud, improving scalability and traceability.
